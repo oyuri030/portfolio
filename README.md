@@ -25,7 +25,7 @@
 
 ---
 
-### 1. [Review Site](https://github.com/oyuri030/project_a/blob/main/Review_Site.md)
+### 1. [Review Site](https://github.com/oyuri030/project_a/blob/main/ReviewSite/Review_Site.md)
 >영화, 드라마 리뷰 작성 사이트 (개인 프로젝트)
 >
 >개발 기간: 2022.4 ~ 2022.5
