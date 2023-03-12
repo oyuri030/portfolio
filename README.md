@@ -15,16 +15,23 @@
 </br>
 
 ## :triangular_flag_on_post: Projects
-### 1. [FASTval](~~)
+### 1. [FASTval](https://github.com/oyuri030/project_a/blob/main/FASTval.md)
 >국내축제관광 웹 디자인 (팀 프로젝트)
 >
 >개발 기간: 2022.3 ~ 2022.6 
 >
 >기술 : HTML, CSS, bootstrap, JavaScript(jquery)
 >
->[프로젝트 상세 설명](~~)
 
 ---
+
+### 1. [Review Site](https://github.com/oyuri030/project_a/blob/main/Review_Site.md)
+>영화, 드라마 리뷰 작성 사이트 (개인 프로젝트)
+>
+>개발 기간: 2022.3 ~ 2022.6 
+>
+>기술 : HTML, CSS, bootstrap, JavaScript(jquery)
+>
 
 
 
