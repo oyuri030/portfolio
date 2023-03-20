@@ -33,7 +33,5 @@
 >기술 : JAVA, JSP, CSS, MYSQL, bootstrap, JavaScript(jquery)
 >
 
-
-
 </br>
 
